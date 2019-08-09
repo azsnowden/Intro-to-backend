@@ -6,4 +6,4 @@ Values
 ('Terry','Espresso','Tall'),
 ('Joe','Latte','Venti'),
 ('Veronica','Double Espresso','Venti'),
-('Sara','Café au lâit','Grande'),
+('Sara','Café au lâit','Grande')
